@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "sistema-bancario_e37c33a4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
             "mainClass": "src.app.App",
             "projectName": "sistema-bancario"
         }
